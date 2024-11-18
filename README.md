@@ -1,1 +1,6 @@
 # Predixion_Assignment_DevanshTikariha
+This project is a Python-based tool designed to analyze conversations between recovery agents and borrowers, particularly in the context of financial recovery scenarios. It provides a structured framework to parse dialogues, extract key insights, and generate a detailed analysis report. The tool is equipped with functionality to identify themes like financial difficulties, payment issues, negotiations, and sentiments such as empathy, firmness, or distress, using a customized set of keywords in both English and Hindi.
+
+The project includes modular functions to process the conversation text, perform thematic and sentiment analysis, and extract actionable insights, such as communication styles and negotiation strategies. The generated report summarizes the conversation, identifies key actions, highlights tones of both parties, and provides additional insights to help recovery agents and teams refine their approach.
+
+This tool can be particularly useful for financial institutions, collection agencies, or customer service teams seeking to enhance their communication strategies and understand borrower sentiments. With its robust design and adaptability to different conversation contexts, it offers a comprehensive solution for conversational analysis.
